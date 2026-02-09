@@ -18,8 +18,8 @@ I specialize in **Software & Hardware Development**, **Network Security**, and *
 * **Hardware:** STM32, ESP32, Network Equipment (Huawei)
 * **Security:** Digital Forensics, Incident Response, Kali Linux
 ---
+![My Home Page](https://page.xyw.cx/)
 
-![Yue's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyuey3&show_icons=true&theme=minimal)
 <!--- - 👋 Hi, I’m Yu(@hiyuey3 /@5i03)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
