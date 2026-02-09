@@ -1,26 +1,25 @@
 # Hi, I'm Yue 👋
-
 > **Tech Enthusiast** | **Hardware & Network Security** | **Digital Forensics** | **Ops & Incident Response** | **iFixit**
-
-I specialize in **Software & Hardware Development**, **Network Security**, and **Device Repair**. I enjoy modular learning and integrating creativity into technical challenges.
-
+I specialize in **Software & Hardware Development**, **Network Security**, and **Device Repair**.
 ---
-
+### 🎓 Education
+* **Xiamen University Tan Kah Kee College**
+* **Fuzhou Polytechnic**
+---
 ### 🧐 About Me
 
-- 🔭 **Focus:** Network Operations, Embedded Security, and Forensics.
-- 🌱 **Learning:** Linux Driver Development & Advanced Penetration Testing.
-- 🔧 **Hobbies:** Hardware Teardown & Repair (iFixit style).
-- 📫 **Contact:** [titusyu@acm.org](mailto:titusyu@acm.org)
-
+* 🔭 **Focus:** Network Operations, Embedded Security, and Forensics.
+* 🌱 **Learning:** Linux Driver Development & Advanced Penetration Testing.
+* 🔧 **Hobbies:** Hardware Teardown & Repair (iFixit style).
+* 📫 **Contact:** [titusyu@acm.org](mailto:titusyu@acm.org)
+---
+### 🛠 Skills
+* **Languages:** Python, Java, Shell, C/C++
+* **Hardware:** STM32, ESP32, Network Equipment (Huawei)
+* **Security:** Digital Forensics, Incident Response, Kali Linux
 ---
 
-### 🛠 Skills
-
-* **Languages:** Python, Java, Shell, C/C++
-* **Hardware:** STM32, ESP32, Network Equipment (Huawei/Cisco)
-* **Security:** Digital Forensics, Incident Response, Kali Linux
-
+![Yue's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyuey3&show_icons=true&theme=minimal)
 <!--- - 👋 Hi, I’m Yu(@hiyuey3 /@5i03)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
